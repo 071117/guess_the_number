@@ -36,6 +36,7 @@ def fun():
     print('Хотите изменить максимально возможное загадываемое число? По умолчанию стоит число 100.')
     question = input()
     if question.capitalize() == 'Да' or question.capitalize() == 'Yes':
+        print('Прошу!')
         n = int(input())
 
     print('Введи число!')
