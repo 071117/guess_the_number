@@ -64,7 +64,7 @@ if question[:2].capitalize() == 'Да' or question.capitalize() == 'Yes':
     print(f'Вы потратили {sm + 1} попыток ;)'
           f'Лучший, возможный, результат {best_result}!')
 flag = True
-#fdhd dhfr
+#fdhd dhfr dfssdf
 while flag == True:
     print('Хотите сыграть еще? Это бесплатно!')
     question = input()
